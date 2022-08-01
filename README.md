@@ -4,4 +4,4 @@ adding text to make changes
 
 changes
 
-I hope this won't be a problem
+This is a simple README file
